@@ -3,7 +3,7 @@ public class Week1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("¿ÀÀ¯°æ 202180122");
+		System.out.println("ì˜¤ìœ ê²½ 202180122");
 	}
 
 }
